@@ -24,15 +24,6 @@ I'm a newbie developer fascinated by **system architecture** and **problem-solvi
 
 ---
 
-## 🌐 Connect With Me
-
-I'd love to connect and collaborate! Feel free to reach out:
-
-- 📧 **Email:** [vanductan.nlt@gmail.com](mailto:vanductan.nlt@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/văn-đức-tân-963298276](https://linkedin.com/in/v%C4%83n-%C4%91%E1%BB%A9c-t%C3%A2n-963298276)
-- 🌐 **Portfolio:** [vanductan.id.vn](https://vanductan.id.vn/)
-- 🎮 **Telegram:** @VanDucTan
-
 ## 💭 My Philosophy
 
-> *"Every bug is a lesson. Every project is a step forward. Every mistake is part of the mastery."*
+> *"Universe never gives you challenge that you can't handle it"*
