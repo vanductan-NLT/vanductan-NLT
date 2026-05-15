@@ -16,30 +16,6 @@ I'm a newbie developer fascinated by **system architecture** and **problem-solvi
 
 ---
 
-## 💻 Tech Stack
-
-**Languages:**
-- JavaScript / TypeScript
-- Python
-- HTML5 & CSS3
-
-**Frontend:**
-- React
-- Vue.js
-- Modern CSS frameworks
-
-**Backend:**
-- Node.js
-- Express.js
-- REST API Design
-
-**Tools & Practices:**
-- Git & Version Control
-- Problem-Solving & Algorithm Design
-- System Architecture & Design Patterns
-
----
-
 ## 🎯 What I'm Focused On
 
 - 📚 **AI/LLM:** Understanding architecture patterns and best practices
