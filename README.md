@@ -1,7 +1,7 @@
 # Hi, I'm Tân — Full-Stack Developer & AI Automation Engineer
 
 I build internal tools, automate workflows, and integrate AI into real products.  
-Currently leading a dev team at [NhiLe Holdings](https://github.com/NhiLe-Team-Webs) (Singapore/Vietnam) while studying CS at UIT.
+Currently leading a dev team at [NhiLe Holdings](https://nlh.nhi.sg/) (Singapore/Vietnam) while studying CS at UIT.
 
 ---
 
@@ -11,17 +11,6 @@ Currently leading a dev team at [NhiLe Holdings](https://github.com/NhiLe-Team-W
 - **AI Integration** — Anthropic Claude API, Google Gemini, LLM-powered tools
 - **Workflow Automation** — n8n, Make.com, Telegram Bot, Google Sheets pipelines
 - **Backend & Infra** — Supabase, PostgreSQL, REST APIs, GitHub Actions, Vercel, Coolify
-
----
-
-## Selected Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [The Blind's Eyes](https://github.com/vanductan-NLT/the-blind-eye) | Real-time AI visual companion for the visually impaired — live camera + voice guidance | React, TypeScript, Gemini Live API |
-| [MeetMind](https://github.com/vanductan-NLT/meeting-to-notion-page) | Drop a meeting recording → get a Notion page with summary, attendees, and task list | FastAPI, Whisper, Gemini, Notion API |
-| [Agent Action Guardian](https://github.com/vanductan-NLT/agent-action-guardian) | Real-time guardrail for AI coding agents — intercept and confirm before damage is done | Python, Claude Code hooks |
-| [UIT Hub](https://github.com/vanductan-NLT/uit-hub) | Academic management platform for UIT students — GPA forecast, course roadmap, exam planner | Next.js 15, Supabase, TypeScript |
 
 ---
 
@@ -42,7 +31,7 @@ I'm available for short-to-mid-term remote projects. I work well on:
 - Adding AI features to existing apps
 - Bug fixes and performance improvements on React/Next.js/Node.js codebases
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/v%C4%83n-%C4%91%E1%BB%A9c-t%C3%A2n-963298276/) · [Website](https://vanductan.id.vn/) · [Facebook](https://www.facebook.com/tan7tntmt)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/v%C4%83n-%C4%91%E1%BB%A9c-t%C3%A2n-963298276/) · [Facebook](https://www.facebook.com/tan7tntmt)
 
 ---
 
