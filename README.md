@@ -1,29 +1,57 @@
-# Hey there! 👋 I'm Văn Đức Tân
+# Hi, I'm Tân — Full-Stack Developer & AI Automation Engineer
 
-**Full Stack Developer** | **Tech Enthusiast** | **Lifelong Learner**
-
-Welcome to my GitHub! I'm a newbie developer with a curious mind and a passion for solving real-world problems through technology. I'm on a journey of continuous learning, embracing mistakes as stepping stones to growth.
-
----
-
-## 🚀 About Me
-
-I'm a newbie developer fascinated by **system architecture** and **problem-solving through technology**. I believe that good code is clean, maintainable, and purposeful. While I'm still early in my development journey, I'm committed to building solid foundations and exploring the depths of software engineering.
-
-- 🌱 **Learning Philosophy:** I learn best by building, making mistakes, breaking things, and figuring out how to fix them
-- 🎯 **Focus Areas:** Full-stack development, system design, and scalable architecture
-- 💡 **Approach:** Curiosity-driven development with an emphasis on understanding the "why" behind solutions
+I build internal tools, automate workflows, and integrate AI into real products.  
+Currently leading a dev team at [NhiLe Holdings](https://github.com/NhiLe-Team-Webs) (Singapore/Vietnam) while studying CS at UIT.
 
 ---
 
-## 🎯 What I'm Focused On
+## What I Do
 
-- 📚 **AI/LLM:** Understanding architecture patterns and best practices
-- ❌ **Making Mistakes:** Learning from failures and improving systematically
-- 🏗️ **Building tools, systems:** Building something that solves real problems
+- **Full-Stack Development** — React, Next.js, Node.js, TypeScript, Python
+- **AI Integration** — Anthropic Claude API, Google Gemini, LLM-powered tools
+- **Workflow Automation** — n8n, Make.com, Telegram Bot, Google Sheets pipelines
+- **Backend & Infra** — Supabase, PostgreSQL, REST APIs, GitHub Actions, Vercel, Coolify
 
 ---
 
-## 💭 My Philosophy
+## Selected Projects
 
-> *"Universe never gives you challenge that you can't handle it"*
+| Project | What it does | Stack |
+|---|---|---|
+| [The Blind's Eyes](https://github.com/vanductan-NLT/the-blind-eye) | Real-time AI visual companion for the visually impaired — live camera + voice guidance | React, TypeScript, Gemini Live API |
+| [MeetMind](https://github.com/vanductan-NLT/meeting-to-notion-page) | Drop a meeting recording → get a Notion page with summary, attendees, and task list | FastAPI, Whisper, Gemini, Notion API |
+| [Agent Action Guardian](https://github.com/vanductan-NLT/agent-action-guardian) | Real-time guardrail for AI coding agents — intercept and confirm before damage is done | Python, Claude Code hooks |
+| [UIT Hub](https://github.com/vanductan-NLT/uit-hub) | Academic management platform for UIT students — GPA forecast, course roadmap, exam planner | Next.js 15, Supabase, TypeScript |
+
+---
+
+## Background
+
+- **Team Lead @ NhiLe Holdings** — managing a 4-person dev team, shipping internal portals across education, HR, and finance verticals
+- **Automation work** — built and maintained multi-step pipelines on n8n and Make.com for real business operations (30-day student challenge systems, onboarding flows, content pipelines)
+- **SOP & system design** — designed architecture docs, API contracts, and onboarding systems for non-technical teams
+
+---
+
+## Open for Freelance Work
+
+I'm available for short-to-mid-term remote projects. I work well on:
+
+- Small internal tools or dashboards that save your team hours every week
+- Automating repetitive business workflows (forms, notifications, data sync)
+- Adding AI features to existing apps
+- Bug fixes and performance improvements on React/Next.js/Node.js codebases
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/v%C4%83n-%C4%91%E1%BB%A9c-t%C3%A2n-963298276/) · [Website](https://vanductan.id.vn/) · [Facebook](https://www.facebook.com/tan7tntmt)
+
+---
+
+## Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
